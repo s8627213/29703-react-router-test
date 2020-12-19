@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/29703-react-router-test/static/css/main.5eca24d1.chunk.css",
+    "main.js": "/29703-react-router-test/static/js/main.80cb917b.chunk.js",
+    "main.js.map": "/29703-react-router-test/static/js/main.80cb917b.chunk.js.map",
+    "runtime-main.js": "/29703-react-router-test/static/js/runtime-main.2f7dc40c.js",
+    "runtime-main.js.map": "/29703-react-router-test/static/js/runtime-main.2f7dc40c.js.map",
+    "static/js/2.80f7a387.chunk.js": "/29703-react-router-test/static/js/2.80f7a387.chunk.js",
+    "static/js/2.80f7a387.chunk.js.map": "/29703-react-router-test/static/js/2.80f7a387.chunk.js.map",
+    "static/js/3.6b385d57.chunk.js": "/29703-react-router-test/static/js/3.6b385d57.chunk.js",
+    "static/js/3.6b385d57.chunk.js.map": "/29703-react-router-test/static/js/3.6b385d57.chunk.js.map",
+    "index.html": "/29703-react-router-test/index.html",
+    "static/css/main.5eca24d1.chunk.css.map": "/29703-react-router-test/static/css/main.5eca24d1.chunk.css.map",
+    "static/js/2.80f7a387.chunk.js.LICENSE.txt": "/29703-react-router-test/static/js/2.80f7a387.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f7dc40c.js",
+    "static/js/2.80f7a387.chunk.js",
+    "static/css/main.5eca24d1.chunk.css",
+    "static/js/main.80cb917b.chunk.js"
+  ]
+}
